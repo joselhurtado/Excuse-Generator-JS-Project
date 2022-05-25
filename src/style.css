@@ -12,8 +12,14 @@
   text-transform: uppercase;
 }
 
+#excuse {
+  margin-top: 100px;
+}
+
 .btn {
   font-weight: bold;
+  max-width: 600px;
+  text-align: center;
 }
 
 .h1 {
@@ -23,10 +29,11 @@
 }
 
 #imageExcude {
-  max-width: 450px;
+  max-width: 500px;
   height: auto;
-  padding: 25px;
-  margin: 25px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .fixed-bottom {
