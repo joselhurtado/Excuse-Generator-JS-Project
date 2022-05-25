@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+#excuse {
+  padding-top: 100px;
+}
+
+.btn {
+    padding: 50px;
+}
