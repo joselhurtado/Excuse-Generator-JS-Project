@@ -1,1 +1,23 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+* {
+  background-color: #1d1d1b;
+}
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+}
+
+.h1 {
+  color: #f9cf25 !important;
+  flex: auto;
+}
+
+.img {
+  max-width: 250px;
+  height: auto;
+}
+
+.fixed-bottom {
+  color: white;
+}
