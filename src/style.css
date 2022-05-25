@@ -8,14 +8,25 @@
   box-sizing: content-box;
 }
 
+.p {
+  text-transform: uppercase;
+}
+
+.btn {
+  font-weight: bold;
+}
+
 .h1 {
   color: #f9cf25 !important;
   flex: auto;
+  text-transform: uppercase;
 }
 
-.img {
-  max-width: 250px;
+#imageExcude {
+  max-width: 450px;
   height: auto;
+  padding: 25px;
+  margin: 25px;
 }
 
 .fixed-bottom {
