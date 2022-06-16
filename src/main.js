@@ -1,7 +1,3 @@
-/* eslint-disable */
-import "bootstrap";
-import "./style.css";
-
 window.onload = () => {
   document.querySelector("#excuse").innerHTML = generateExcuse();
 };
